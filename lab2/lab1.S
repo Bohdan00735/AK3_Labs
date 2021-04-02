@@ -1,7 +1,7 @@
 .global lab1
 .syntax unified
-#define a #3
-#define b #2
+#define a #5
+#define b #3
 #define c #4
 
 // math variantq
