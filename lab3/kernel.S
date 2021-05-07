@@ -1,9 +1,9 @@
 .syntax unified
 .cpu cortex-m4
 .thumb
-#define a #5
-#define b #4
-#define c #2
+#define a #3
+#define b #1
+#define c #4
 
 // Global memory locations.
 .global vtable_kernel
